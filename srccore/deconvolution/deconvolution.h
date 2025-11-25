@@ -1,8 +1,8 @@
 /**
  * @file deconvolution.h
  * @brief Image deconvolution algorithms for optical microscopy and imaging
- * @author Your Name
- * @date 2024
+ * @author hany
+ * @date 2025
  * 
  * This header provides various deconvolution algorithms including:
  * - Richardson-Lucy deconvolution
