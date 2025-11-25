@@ -1,9 +1,9 @@
 /**
  * @file reconstruction.h
  * @brief 全息重建和相位恢复算法库
- * @author Diffraction Simulation Library Team
- * @version 1.0.0
- * @date 2024
+ * @author hany
+ * @version
+ * @date 2025
  * 
  * 本头文件定义了全息重建和相位恢复的相关函数和数据结构。
  * 主要功能包括：
