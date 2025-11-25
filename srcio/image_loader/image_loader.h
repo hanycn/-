@@ -1,8 +1,8 @@
 /**
  * @file image_loader.h
  * @brief Image loading and saving utilities for super-resolution
- * @author Super-Resolution Library
- * @date 2024
+ * @author hany
+ * @date 2025
  */
 
 #ifndef IMAGE_LOADER_H
