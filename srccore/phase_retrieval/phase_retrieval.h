@@ -1,8 +1,8 @@
 /**
  * @file phase_retrieval.h
  * @brief 相位恢复算法头文件
- * @author Assistant
- * @date 2024
+ * @author hany
+ * @date 2025
  * 
  * 本文件定义了各种相位恢复算法的接口，包括：
  * - Gerchberg-Saxton (GS) 算法
