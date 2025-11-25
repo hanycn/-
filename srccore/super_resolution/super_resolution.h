@@ -9,9 +9,9 @@
  * - 深度学习方法接口
  * - 多帧超分辨率
  * 
- * @author Image Processing Library
- * @version 1.0.0
- * @date 2024
+ * @author hany
+ * @version 
+ * @date 2025
  */
 
 #ifndef SUPER_RESOLUTION_H
